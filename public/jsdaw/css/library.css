@@ -1,9 +1,7 @@
-#dropzone {
-  border: 4px dashed #666;
-  text-align:center;
-  padding:100px 0;
-  color:#666;
-  font-size:16px;
+@import "libs/jquery.fileupload-ui.css";
+
+.fileinput-button {
+  float: none;
 }
 
 .audio-source .filename {
